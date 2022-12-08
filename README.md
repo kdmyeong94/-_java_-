@@ -22,3 +22,13 @@
 <p>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 </p>
+
+<h1> 📽 시현 영상</h1>
+<div>
+<video src="https://user-images.githubusercontent.com/115456038/206452640-042452d5-de5d-4c42-b421-7b17885846cd.mp4"/>
+</div>
+<hr>
+
+<p><a href="https://github.com/kdmyeong94"> Github 바로가기</a></p>
+<p><a href="https://velog.io/@rlaehdaud511"> Blog 바로가기</a> </p>
+<hr>
